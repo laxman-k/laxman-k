@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @laxman-k
+- 👋 Hi, I’m Lax
 - 👀 I’m interested in ecommerce, raspberryPi, blockchain
 - 🌱 I’m currently learning implementations of RaspberryPi for NAS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  - Please visit my GIT resume page
+- 📫 How to reach me  - [Please visit](https://laxman-k.github.io/)
 
 <!---
 laxman-k/laxman-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
